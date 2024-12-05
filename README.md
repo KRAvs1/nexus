@@ -50,3 +50,4 @@ curl https://cli.nexus.xyz/ | sh
 ```
 
 end
+
